@@ -1,0 +1,2 @@
+const nome = "Pâmela";
+
